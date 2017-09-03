@@ -1,28 +1,22 @@
-body
-{
-	font-family: 'Lato', sans-serif;
-	color:#676858;
-	font-weight: 300;
-}
+/* Project: Portfolio, Udacity fullstack program 2017 
+===================================================*/
+/* General
+===================*/
 
-.text-muted
-{
-	color: #676858;
+body {
+    font-family: 'Lato', sans-serif;
+    color: #676858;
+    font-weight: 300;
 }
-
-.text-thin
-{
-	font-weight: 100;
+.text-muted {
+    color: #676858;
 }
-
 .logo {
-  width: 80px;
-  margin-top: 15px;
+    width: 5.5em;
+    margin-top: 1em;
 }
-
-.img-responsive
-{
-	max-width: 100%;
+.img-responsive {
+    max-width: 100%;
 }
 
 /* Footer
@@ -30,7 +24,6 @@ body
 
 footer {
     text-align: center;
-   
     color: #2d3c49;
     border-top: 0.1em solid #2d3c49;
     margin-top: 2em;
