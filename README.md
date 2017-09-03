@@ -3,7 +3,7 @@ This is second project assignment of Udacity Web Development course. Mockup desi
 
 ## File Structure in this project
 
-    ├──css--style.css
+    ├──css--style.css --bootstrap.min
     ├──image/
     ├──index.html
     └──README.md
